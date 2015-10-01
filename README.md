@@ -11,11 +11,11 @@ authors = ['Maria Ortis',
 		   'Philipp Kats']
 
 
-## Our Hypothesis: riders in Brooklyn are younger than riders in Manhattan
+### Our Hypothesis: riders in Brooklyn are younger than riders in Manhattan
 
-### Null hypothesis: the average age of subscribers who start rides in Brooklyn stations is greater or the same as subscribers who start rides in Manhattan stations
+- **Null hypothesis**: the average age of subscribers who start rides in Brooklyn stations is greater or the same as subscribers who start rides in Manhattan stations
 
-### Alternative hypothesis: the average of subscribers who start rides in Brooklyn stations is lower than that of subscribers who start rides in Manhattan stations
+- **Alternative hypothesis**: the average of subscribers who start rides in Brooklyn stations is lower than that of subscribers who start rides in Manhattan stations
 
 ## Data
 
