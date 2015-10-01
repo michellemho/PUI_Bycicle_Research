@@ -2,7 +2,7 @@ PUI_Bycicle_Research
 ====================
 
 research on Bicycle data for CUSP PUI 2015 class
-* Deadline: Sunday, 10.4.2015 *
+Deadline: **Sunday, 10.4.2015**
 
 authors = ['Maria Ortis', 
 		   'Hannah Kates', 
@@ -23,3 +23,8 @@ TBD: Here we need to explain which data we chouse and why
 
 - [**Rides data**](data/january.csv)
 - [**Stations data**](data/stations.csv)
+
+#### Data sources
+TBD
+
+## Process
