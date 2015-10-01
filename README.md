@@ -1,10 +1,6 @@
 PUI_Bycicle_Research
 ====================
 
-  __o
- _`\<,_
-(_)/ (_)  
-
 research on Bicycle data for CUSP PUI 2015 class
 Deadline: **Sunday, 10.4.2015**
 
@@ -29,6 +25,6 @@ TBD: Here we need to explain which data we chouse and why
 - [**Stations data**](data/stations.csv)
 
 #### Data sources
-TBD
+- [Citibike data](https://www.citibikenyc.com/system-data)
 
 ## Process
