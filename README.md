@@ -29,13 +29,16 @@ TBD: Here we need to explain which data we chouse and why
 - [Borough boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
 
 ## Process
+
+[General Notebook](0_Base Notebook.ipynb)
+
 We splitted the process into several parts
 
-- Data preparation [Maria Ortis', 'Hannah Kates', 'Michelle Ho', 'Philipp kats']
+- [Trip Data preparation](2_Processing trips data.ipynb) [Maria Ortis', 'Hannah Kates', 'Michelle Ho', 'Philipp kats']
 - [Borough classification](1_Data processing.ipynb) [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
 - Age analysis [Maria Ortis', 'Hannah Kates']
 - t-Statistics ['Michelle Ho']
-- Mapping ['Xia Wang']
+- [Mapping](citibikeuserage.jpg) ['Xia Wang']
 - conclusion ['Michelle Ho']
 
 
