@@ -32,7 +32,7 @@ TBD: Here we need to explain which data we chouse and why
 We splitted the process into several parts
 
 - Data preparation [Maria Ortis', 'Hannah Kates', 'Michelle Ho', 'Philipp kats']
-- Borough classification [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
+- [Borough classification](1_Data processing.ipynb) [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
 - Age analysis [Maria Ortis', 'Hannah Kates']
 - t-Statistics ['Michelle Ho']
 - Mapping ['Xia Wang']
