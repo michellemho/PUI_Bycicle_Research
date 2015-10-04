@@ -26,5 +26,16 @@ TBD: Here we need to explain which data we chouse and why
 
 #### Data sources
 - [Citibike data](https://www.citibikenyc.com/system-data)
+- [Borough boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
 
 ## Process
+We splitted the process into several parts
+
+- Data preparation [Maria Ortis', 'Hannah Kates', 'Michelle Ho', 'Philipp kats']
+- Borough classification [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
+- Age analysis [Maria Ortis', 'Hannah Kates']
+- t-Statistics ['Michelle Ho']
+- Mapping ['Xia Wang']
+- conclusion ['Michelle Ho']
+
+
