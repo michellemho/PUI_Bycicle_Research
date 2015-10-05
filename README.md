@@ -30,15 +30,15 @@ TBD: Here we need to explain which data we chouse and why
 
 ## Process
 
-[General Notebook](0_Base Notebook.ipynb)
+[General Notebook](3_Base Notebook_alt.ipynb)
 
 We splitted the process into several parts
 
 - [Trip Data preparation](2_Processing trips data.ipynb) [Maria Ortis', 'Hannah Kates', 'Michelle Ho', 'Philipp kats']
-- [Borough classification](1_Data processing.ipynb) [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
-- Age analysis [Maria Ortis', 'Hannah Kates']
-- t-Statistics ['Michelle Ho']
+- [Borough classification](1_Stations_processing.ipynb) [Maria Ortis', 'Hannah Kates', 'Philipp Kats']
+- [Age analysis](3_Base Notebook_alt.ipynb) [Maria Ortis', 'Hannah Kates']
+- [t-Statistics](3_Base Notebook_alt.ipynb) ['Michelle Ho']
 - [Mapping](citibikeuserage.jpg) ['Xia Wang']
-- conclusion ['Michelle Ho']
+- [Conclusion](3_Base Notebook_alt.ipynb) ['Michelle Ho']
 
 
