@@ -19,10 +19,9 @@ authors = ['Maria Ortis',
 
 ## Data
 
-TBD: Here we need to explain which data we chouse and why
-
-- [**Rides data**](data/january.csv)
+- [**Rides data**](data/r_trips.csv)
 - [**Stations data**](data/stations.csv)
+- [**Boroughs borders**](data/borrows15_2.geojson)
 
 #### Data sources
 - [Citibike data](https://www.citibikenyc.com/system-data)
